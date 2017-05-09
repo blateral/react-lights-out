@@ -1,11 +1,16 @@
 # React Lights Out
 
-Ziel diese Workshops ist es Ihnen den Umgang mit React zu vermitteln. Dabei sollen vor allem die funktionalen und deklarariven Konzepte sowie der unidirektionale Datenfluss dieser Technologie näher gebracht werden.
+Ziel diese Workshops ist es Ihnen den Umgang mit React zu vermitteln. Dabei sollen vor allem die funktionalen und deklarariven Konzepte sowie der unidirektionale Datenfluss dieser Technologie praktisch erläutert werden.
 
 ### Hilfreiche Links:
 - [JSX](https://facebook.github.io/react/docs/introducing-jsx.html)
 - [Events](https://facebook.github.io/react/docs/handling-events.html)
 - [Rendering von Listen](https://facebook.github.io/react/docs/lists-and-keys.html)
+
+## Setup
+1. Repo klonen (einmalig)
+1. `npm install` (einmalig)
+1. `npm start`
 
 ## Game Engine
 Da wir uns ausschließlich auf React konzentrieren wollen, gibt es die gesamte Spiellogik schon als fertiges JS-Modul:
